@@ -7,7 +7,7 @@ canvas.speed = null
 canvas.troll = null
 c.fillRect(0,0, canvas.width, canvas.height)
 
-const gravity = 0.7
+const gravity = 0.8
 
 class Sprite {
     constructor({position,velocity, color = 'red',offset }) {
