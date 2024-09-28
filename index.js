@@ -5,6 +5,7 @@ canvas.width = 1024
 canvas.height = 576
 canvas.speed = null
 canvas.troll = null
+canvas.speed = null
 c.fillRect(0,0, canvas.width, canvas.height)
 
 const gravity = 0.9
