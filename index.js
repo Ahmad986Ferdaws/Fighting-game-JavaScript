@@ -8,6 +8,7 @@ canvas.troll = null
 canvas.speed = null
 canvas.newborder = null
 canvas.election = null
+canvas.hello = null
 c.fillRect(0,0, canvas.width, canvas.height)
 
 const gravity = 0.9
