@@ -1,7 +1,7 @@
 
 x.enquece(new integer(4));
 x.enquece(new integer(1));
-Object Y = x.dequeue()
+Object Y = x.dequeue();
 x.enqueue(new integer(8));
 x.enqueue(new integer(2));
 x.enqueue(new integer(5));
