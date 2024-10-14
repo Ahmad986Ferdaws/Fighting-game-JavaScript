@@ -17,7 +17,7 @@ Object Y = x.firt();
 x.add(new Integer (3));
 x.add(new integer(2));
 x.add(new integer(5));
-Object Y = X.removelast()
+Object Y = X.removelast();
 Object Y = x.remove(new integer(7));
 x.add(new integer(9));
 x.add(new integer(9));
