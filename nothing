@@ -8,7 +8,7 @@ x.enqueue(new integer(5));
 x.enqueue(new integer(3));
 Object Y = x.dequeue();
 x.enqueue(new integer(4));
-x.enqueue(new integer(9));
+x.enqueue(new integer(9));a
 
 // 
 x.add(new ineger(4));a
