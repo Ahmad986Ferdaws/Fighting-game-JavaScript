@@ -14,7 +14,7 @@ x.enqueue(new integer(9));
 x.add(new ineger(4));
 x.add(new ineger(7));
 Object Y = x.firt();
-x.add(new Integer (3));
+x.add(new Integer (3))
 x.add(new integer(2));
 x.add(new integer(5));
 Object Y = X.removelast();
