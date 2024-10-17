@@ -10,7 +10,7 @@ Object Y = x.dequeue();
 x.enqueue(new integer(4));
 x.enqueue(new integer(9));gg
 
-// 
+// s
 x.add(new ineger(4));
 x.add(new ineger(7));
 Object Y = x.firt();
